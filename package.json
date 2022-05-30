@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "Galahad",
+  "author": "Nawrasse Dahman",
   "dependencies": {
     "axios": "^0.21.1",
     "discord.js": "^12.5.3",
